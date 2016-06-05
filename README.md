@@ -1,6 +1,6 @@
-# Multicast delegates example in csharp
+# Multicast delegates example in csharp 
 
-Un example of how to implement multicast delegates 
+Un example of how to implement multicast delegates :shipit:
 
 To run this example with dotnet cli use : 
 ```
