@@ -1,1 +1,8 @@
-# Calculator_multicast_delegates_cSharp
+# Multicast delegates example in csharp
+
+Un example of how to implement multicast delegates 
+
+'''
+dotnet run 5 3
+'''
+
